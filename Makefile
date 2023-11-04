@@ -1,6 +1,6 @@
 DOCKERHUB_ID:=janvda
 SERVICE_NAME:=node-red-sqlite
-SERVICE_VERSION:=3.0.2-16 # same version as docker hub tag of the node-red base image.
+SERVICE_VERSION:=3.1.0-18 # same version as docker hub tag of the node-red base image.
 ARCHITECTURES:= linux/arm/v7,linux/arm64/v8,linux/amd64
 
 # if you don't want the build to use cached layers replace next line by :

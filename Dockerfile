@@ -1,4 +1,4 @@
-FROM nodered/node-red:3.0.2-16
+FROM nodered/node-red:3.1.0-18
 
 ######### Changing to root as below commands should be run as root #############
 USER root
