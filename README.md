@@ -14,6 +14,6 @@ FYI building these images for the `linux/arm/v7` architecture takes about 20 min
 
 ## Change History
 
-* version 4.0.2-22: based on image `nodered/node-red:4.0.2-22`
+* version 4.0.2-22: based on image `nodered/node-red:4.0.2-22` (but not for arm v7 architecture)
 * version 3.1.0-18: based on image `nodered/node-red:3.1.0-18`
 * version 3.0.2-16: based on image `nodered/node-red:3.0.2-16`
